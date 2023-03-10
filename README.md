@@ -1,3 +1,3 @@
 # sydneys-rep
 # To improve is to change.
-i love :coffee: :pizza:, and 🍶:
+i love :coffee: :pizza:, and 🍶
