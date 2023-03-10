@@ -1,2 +1,3 @@
 # sydneys-rep
-repository for fullstack academy testing via sydney p.
+# To improve is to change.
+i love :coffee: :pizza:, and :döner kebab:
